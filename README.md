@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Dawn, a Mathematical Science graduate from Nanyang Technological University!
+
+💻 Skills: R, Python, SQL, Tableau
+🌱 Currently learning: SAP, AI
+📫 Contact: Linkedin: https://www.linkedin.com/in/dawnteows/ Email: weiisuenn@gmail.com 
+⚡ Fun fact: On free days, you can find me working out/playing the piano/hanging out with friends over food
+
 <!--
 **dawnteo/dawnteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
